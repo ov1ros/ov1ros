@@ -1,6 +1,8 @@
-## Hi there 👋
+Hi there 👋
 
 My name is Ovidiu and I  consider myself a sociable and open-minded person. I am ambitious, motivated and I always try to do my best. I am also a true team player, and I like to keep myself busy and organize my time efficiently. I have a strong passion for technology and enjoy working with programming languages and technologies such as SQL, JavaScript, MATLAB, and networking, always wanting to improve my skills and learn new things.
+
+⚡ Fun fact: I'm looking for an internship for this summer!
 <!--
 **ov1ros/ov1ros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
